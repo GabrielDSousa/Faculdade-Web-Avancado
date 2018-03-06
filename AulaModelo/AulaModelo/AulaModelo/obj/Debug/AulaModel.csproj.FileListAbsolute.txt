@@ -1,0 +1,71 @@
+D:\PWA\AulaModelo\AulaModelo\bin\AulaModelo.dll.config
+D:\PWA\AulaModelo\AulaModelo\bin\AulaModelo.dll
+D:\PWA\AulaModelo\AulaModelo\bin\AulaModelo.pdb
+D:\PWA\AulaModelo\AulaModelo\bin\AulaModelo.Modelo.dll
+D:\PWA\AulaModelo\AulaModelo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PWA\AulaModelo\AulaModelo\bin\Microsoft.Web.Infrastructure.dll
+D:\PWA\AulaModelo\AulaModelo\bin\System.Web.Helpers.dll
+D:\PWA\AulaModelo\AulaModelo\bin\System.Web.Mvc.dll
+D:\PWA\AulaModelo\AulaModelo\bin\System.Web.Razor.dll
+D:\PWA\AulaModelo\AulaModelo\bin\System.Web.Webpages.Deployment.dll
+D:\PWA\AulaModelo\AulaModelo\bin\System.Web.Webpages.dll
+D:\PWA\AulaModelo\AulaModelo\bin\System.Web.Webpages.Razor.dll
+D:\PWA\AulaModelo\AulaModelo\bin\AulaModelo.Modelo.pdb
+D:\PWA\AulaModelo\AulaModelo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PWA\AulaModelo\AulaModelo\bin\System.Web.Razor.xml
+D:\PWA\AulaModelo\AulaModelo\bin\System.Web.Webpages.xml
+D:\PWA\AulaModelo\AulaModelo\bin\System.Web.Webpages.Deployment.xml
+D:\PWA\AulaModelo\AulaModelo\bin\System.Web.Webpages.Razor.xml
+D:\PWA\AulaModelo\AulaModelo\bin\System.Web.Helpers.xml
+D:\PWA\AulaModelo\AulaModelo\bin\System.Web.Mvc.xml
+D:\PWA\AulaModelo\AulaModelo\obj\Debug\AulaModel.csprojResolveAssemblyReference.cache
+D:\PWA\AulaModelo\AulaModelo\obj\Debug\AulaModel.csproj.CoreCompileInputs.cache
+D:\PWA\AulaModelo\AulaModelo\obj\Debug\AulaModelo.dll
+D:\PWA\AulaModelo\AulaModelo\obj\Debug\AulaModelo.pdb
+D:\Tadeu\PWA\AulaModelo\AulaModelo\bin\AulaModelo.dll.config
+D:\Tadeu\PWA\AulaModelo\AulaModelo\bin\AulaModelo.dll
+D:\Tadeu\PWA\AulaModelo\AulaModelo\bin\AulaModelo.pdb
+D:\Tadeu\PWA\AulaModelo\AulaModelo\bin\AulaModelo.Modelo.dll
+D:\Tadeu\PWA\AulaModelo\AulaModelo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tadeu\PWA\AulaModelo\AulaModelo\bin\Microsoft.Web.Infrastructure.dll
+D:\Tadeu\PWA\AulaModelo\AulaModelo\bin\System.Web.Helpers.dll
+D:\Tadeu\PWA\AulaModelo\AulaModelo\bin\System.Web.Mvc.dll
+D:\Tadeu\PWA\AulaModelo\AulaModelo\bin\System.Web.Razor.dll
+D:\Tadeu\PWA\AulaModelo\AulaModelo\bin\System.Web.Webpages.Deployment.dll
+D:\Tadeu\PWA\AulaModelo\AulaModelo\bin\System.Web.Webpages.dll
+D:\Tadeu\PWA\AulaModelo\AulaModelo\bin\System.Web.Webpages.Razor.dll
+D:\Tadeu\PWA\AulaModelo\AulaModelo\bin\AulaModelo.Modelo.pdb
+D:\Tadeu\PWA\AulaModelo\AulaModelo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tadeu\PWA\AulaModelo\AulaModelo\bin\System.Web.Razor.xml
+D:\Tadeu\PWA\AulaModelo\AulaModelo\bin\System.Web.Webpages.xml
+D:\Tadeu\PWA\AulaModelo\AulaModelo\bin\System.Web.Webpages.Deployment.xml
+D:\Tadeu\PWA\AulaModelo\AulaModelo\bin\System.Web.Webpages.Razor.xml
+D:\Tadeu\PWA\AulaModelo\AulaModelo\bin\System.Web.Helpers.xml
+D:\Tadeu\PWA\AulaModelo\AulaModelo\bin\System.Web.Mvc.xml
+D:\Tadeu\PWA\AulaModelo\AulaModelo\obj\Debug\AulaModel.csprojResolveAssemblyReference.cache
+D:\Tadeu\PWA\AulaModelo\AulaModelo\obj\Debug\AulaModel.csproj.CoreCompileInputs.cache
+D:\Tadeu\PWA\AulaModelo\AulaModelo\obj\Debug\AulaModelo.dll
+D:\Tadeu\PWA\AulaModelo\AulaModelo\obj\Debug\AulaModelo.pdb
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\bin\AulaModelo.dll.config
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\bin\AulaModelo.dll
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\bin\AulaModelo.pdb
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\bin\AulaModelo.Modelo.dll
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\bin\Microsoft.Web.Infrastructure.dll
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\bin\System.Web.Helpers.dll
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\bin\System.Web.Mvc.dll
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\bin\System.Web.Razor.dll
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\bin\System.Web.Webpages.Deployment.dll
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\bin\System.Web.Webpages.dll
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\bin\System.Web.Webpages.Razor.dll
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\bin\AulaModelo.Modelo.pdb
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\bin\System.Web.Razor.xml
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\bin\System.Web.Webpages.xml
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\bin\System.Web.Webpages.Deployment.xml
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\bin\System.Web.Webpages.Razor.xml
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\bin\System.Web.Helpers.xml
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\bin\System.Web.Mvc.xml
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\obj\Debug\AulaModel.csprojResolveAssemblyReference.cache
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\obj\Debug\AulaModelo.dll
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo\obj\Debug\AulaModelo.pdb

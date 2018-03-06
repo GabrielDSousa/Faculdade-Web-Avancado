@@ -1,0 +1,11 @@
+D:\PWA\AulaModelo\AulaModelo.Modelo\bin\Debug\AulaModelo.Modelo.dll
+D:\PWA\AulaModelo\AulaModelo.Modelo\bin\Debug\AulaModelo.Modelo.pdb
+D:\PWA\AulaModelo\AulaModelo.Modelo\obj\Debug\AulaModel.Modelo.csprojResolveAssemblyReference.cache
+D:\PWA\AulaModelo\AulaModelo.Modelo\obj\Debug\AulaModel.Modelo.csproj.CoreCompileInputs.cache
+D:\PWA\AulaModelo\AulaModelo.Modelo\obj\Debug\AulaModelo.Modelo.dll
+D:\PWA\AulaModelo\AulaModelo.Modelo\obj\Debug\AulaModelo.Modelo.pdb
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo.Modelo\bin\Debug\AulaModelo.Modelo.dll
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo.Modelo\bin\Debug\AulaModelo.Modelo.pdb
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo.Modelo\obj\Debug\AulaModel.Modelo.csprojResolveAssemblyReference.cache
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo.Modelo\obj\Debug\AulaModelo.Modelo.dll
+C:\Estudo\Vianna Junior\4o periodo\pwa\AulaModelo\AulaModelo\AulaModelo.Modelo\obj\Debug\AulaModelo.Modelo.pdb
